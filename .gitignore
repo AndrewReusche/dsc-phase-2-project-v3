@@ -9,6 +9,12 @@ __pycache__/
 ignore_these/
 
 .DS_Store
+*.db
+*.tsv
+*.csv
+*.zip
+*.gz
+zippedData/
 
 
 # Distribution / packaging

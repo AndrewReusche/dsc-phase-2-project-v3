@@ -1,4 +1,4 @@
-![Movie Analysis](../images/movie_profitability.jpeg 'Movie Analysis')
+![Movie Analysis](./images/movie_profitability.jpeg 'Movie Analysis')
 
 # Movie Data Analaysis
 
@@ -32,15 +32,15 @@ This project uses Data Cleaning, Feature Engineering, and Descriptive Analysis t
 
 From the graph below we can see that even though the Mid Level Budget (5,000,000 to 50,000,000 dollars) is the most frequently used budget level from 2015-2020, the movies that used a Low Budget production budget (under 5,000,000 dollars) expierienced the lowest ratio of investment losses and the highest ratio of the production investment returning at least double it's amount in the domestic market.
 
-![Investment Return by Budget Level Analysis](.images/Investment_Return_by_Budget_Level.png "Investment Return by Budget Level Analysis")
+![Investment Return by Budget Level Analysis](./images/Investment_Return_by_Budget_Level.png "Investment Return by Budget Level Analysis")
 
 Here we can see that Drama movies tend to be the most common kind of movie released in the 2015-2020 market, however, the amount of times Drama movies experience an investment loss in the Domestic market is just about even with the amount of times their profits double their investments. Alternatively, Horror movies seem to have a significantly lower ratio of movies that resulted in an investment loss, and a lot higher ratio of movies that resulted in earnings at least double what the production budget investment was.
 
-![Investment Return by Genre_Type Analysis](.images/Investment_Return_by_Genre_Type.png "Investment Return by Genre Type Analysis")
+![Investment Return by Genre_Type Analysis](./images/Investment_Return_by_Genre_Type.png "Investment Return by Genre Type Analysis")
 
 Here we see that the amount of unsuccessful movies (or movies that resulted in an production budget investment loss) are somewhat uniform throughout the entire year. However, only the Winter Season (from December - February) has both a significantly higher amount of movies that made a profit in the domestic market, and movies that doubled their investment.
 
-![Investment Return by Movie_Release_Season_Analysis](.images/Investment_Return_by_Release_Season.png "Investment Return by Movie_Release_Season_Analysis")
+![Investment Return by Movie_Release_Season_Analysis](./images/Investment_Return_by_Release_Season.png "Investment Return by Movie_Release_Season_Analysis")
 
 ## Business Suggestions
 

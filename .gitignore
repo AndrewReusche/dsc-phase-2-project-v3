@@ -12,7 +12,7 @@ ignore_these/
 *.db
 *.tsv
 *.csv
-*.zip
+
 *.gz
 zippedData/
 

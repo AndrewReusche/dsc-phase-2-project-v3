@@ -67,7 +67,7 @@ Additional analysis could help further minimize investment risk, and highlight w
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](Movie_Analysis.ipynb), and review this [presentation](Presentation1.pdf) 
+See the full analysis in the [Jupyter Notebook](Movie_Analysis.ipynb), and review this [presentation](Presentation_Movie_Analysis.pdf) 
 
 For additional information contact Andrew John Reusche at a.j.reusche@gmail.com
 

@@ -73,11 +73,9 @@ For additional information contact Andrew John Reusche at a.j.reusche@gmail.com
 
 ## Repository Structure
 
-├── images
-
-├── notebooks
-
 ├── data
+
+├── images
 
 ├── .gitignore
 
@@ -87,6 +85,6 @@ For additional information contact Andrew John Reusche at a.j.reusche@gmail.com
 
 ├── Movie_Analysis.pdf
 
-├── Presentation1.pdf
+├── Presentation_Movie_Analysis.pdf
 
 └── README.md
